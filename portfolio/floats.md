@@ -1,5 +1,13 @@
 # Floats and positioning elements
 
+## Learning objectives
+
+- Use industry-standard tools (floats) to place elements in the page
+
+### Estimated time: 1h
+
+## Description
+
 Welcome to a new lesson about CSS basics, this time featuring floats and positioning elements. Even if ancient, these techniques are very useful to be able to create websites that look exactly as the web design.
 
 ## Floats
@@ -10,7 +18,7 @@ HTML elements are usually blocks that stack upon each other top down, so you wil
 Even if the use of floats cases have been reduced with the usage of new techniques like flebox or grid, it's worth knowing it. For example, when you have to float an image inside a text, the best tool to do it is still a *float*. 
 Also, there are plenty of CSS code bases that are using floats. When you need to work on a existing code based on floats you should be able to do it.
 
-### Learn more about floats
+### Learn more
 
 - Read this nice [guide about CSS floats](https://alistapart.com/article/css-floats-101/) by A list apart
 
