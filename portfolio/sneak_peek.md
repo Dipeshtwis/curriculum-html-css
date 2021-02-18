@@ -7,53 +7,44 @@
 
 ## Description
 
-In the set of upcoming projects, you will be building your portfolio website. In the beginning, it might use placeholders instead of real projects.
-However, during your Microverse journey, you will be adding examples of your own projects there.
+*Your portfolio* is one of the most powerful tools in your software developer toolbox; it’s the easiest way of showing what you’re truly capable of as a developer, and is a quick and simple way for recruiters and hiring managers to get an idea of what you can bring to their teams.
+
+In this project (divided into different milestones) you will be building a website for your portfolio. A portfolio website is a key job searching tool for a web developer, and we want you to start working on it from the beginning of the Microverse program. In this project, you will **replicate exactly one of the portfolio templates** we are providing you. However, during your Microverse journey you will include your own projects in the portfolio in order to use it for job searching.
 
 
 ### What makes a good portfolio
 
-Watch the video that explains what makes a good portfolio:
-
-<Link to Maria's video from https://microverse.pathwright.com/library/microverse-professional-development-37fa36d5/90738/path/step/59036818/>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3-N6O7DVrbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In essence, if you take a look at any of the example portfolios we list below, you’ll see that they each hit those four main points. 
-They are all simple: there’s no extraneous information—only basic background information, contact information, and a project showcase. 
-They are all visual: they use screenshots, mockups, live demos, and other visual tools to show the viewer what you’re capable of. 
-They are all thorough: while the design itself may be simple, they make use of links (both in-text and otherwise) to show extra background information about their work, projects, and history. 
-And they all look good: they use 1-3 elegant fonts, focus on 2-3 different colors, use HD images, and use color palettes that look good together.
+- They are all **simple**: there’s no extraneous information—only basic background information, contact information, and a project showcase. 
+- They are all **visual**: they use screenshots, mockups, live demos, and other visual tools to show the viewer what you’re capable of. 
+- They are all **thorough**: while the design itself may be simple, they make use of links (both in-text and otherwise) to show extra background information about their work, projects, and history. 
+- And they all **look good**: they use 1-3 elegant fonts, focus on 2-3 different colors, use HD images, and use color palettes that look good together.
 
 ### Portfolio Templates
 
-If you search long enough, you’ll find thousands of great portfolio designs online. 
-We don’t want you to search that long, though! The most important thing right now is creating a portfolio and getting it online. 
-You can iterate and improve upon the design later. Right now, the goal is creating a great MVP.
-
-
 We have provided some solid portfolio templates you can choose from. 
-Choose the one you like the most. Again, do not focus on searching for portfolio designs somewhere else. 
-Let us narrow down your search, or you will get lost on the internet. The templates are hosted on Figma - a collaborative UI design tool built in the browser. 
-Please watch the video below to learn how to navigate Figma and the style guide.
+Choose the one you like the most. The templates are hosted on Figma - a collaborative UI design tool built in the browser. Please watch the video below to learn how to navigate the templates on Figma.
 
-Link to Yvonne's video from https://microverse.pathwright.com/library/microverse-professional-development-37fa36d5/90738/path/step/59036818/>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/167236d17f104fc18298c5c9888354c9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 To learn more about how to use Figma, you can visit and interact with [the Figma community](https://forum.figma.com/).
 
-### Full design of the final product
+Here you will find [the Microverse Student Portfolio Templates](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
 
-Here you will find [the Microverse Student Portfolio Templates](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=2%3A9)
+**You should select one template for your personal portfolio in order to proceed with the next steps.**
 
-### Milestones list
+### Project milestones
 
-You will be building your Portfolio step by step:
-- Project 1: Setup and mobile version skeleton
-- Project 2: Mobile version
-- Project 3: Contact form
-- Project 4: Desktop version
-- Project 5: Final touches & deploy
-- Project 6: Evaluate accessibility
-- Project 7: Try Bootstrap
-- Project 8: Add Easter Egg
-- Project 9: Details pop-up window
-- Project 10: Process user input
-- Project 11: Preserve data in the browser
+You will be building your website portfolio during the first module of the program. Here are the list of the project milestones. You will find the details of each milestone requirements in the coming program activities. In some of teh milestone you will be working individually, but in others you will be working collaboratively with your coding partner.
+- Milestone 1: Setup and mobile version skeleton
+- Milestone 2: Mobile version
+- Milestone 3: Contact form
+- Milestone 4: Desktop version
+- Milestone 5: First MVP deploy
+- Milestone 6: Evaluate accessibility
+- Milestone 7: Add scroll events
+- Milestone 8: Details modal
+- Milestone 9: Process user input
+- Milestone 10: Preserve data in the browser
