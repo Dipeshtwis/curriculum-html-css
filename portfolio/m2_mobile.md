@@ -20,13 +20,16 @@ You will build the "works" section of the mobile website, using the template tha
 </p>
 
 
-Remember to
+In order to implement your website, follow these guidelines:
+- Follow the best practices in this [HTML style guide](https://www.w3schools.com/html/html5_syntax.asp)
 - Use the appropriate tags for each element (e.g., links, titles, etc.) and use HTML5 semantic tags (e.g., header, nav) over `div`s
+- Avoid [CSS bad practices](https://speckyboy.com/good-bad-css-practices/)
 - In order to lay out the elements on the page you should **use CSS grid and flexbox** combined (it is mandatory that you use both). 
   
   *Hint*: we recommend you to use grid in teh main container of all the cards, and flexbox to lay out an individual card.
 - You don't need to implement the detail modal window that requires JavaScript
 - You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the info of the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
+- Implement the button interactions (enable, hover, etc.)
 
 
 ### Need a big picture?
