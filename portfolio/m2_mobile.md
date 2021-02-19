@@ -16,7 +16,7 @@ In this second milestone of your portfolio website, you will create the section 
 You will build the "works" section of the mobile website, using the template that you chose. We include screenshot of the Template 1 below, but you should stick to the template that you chose.
 
 <p align="center">
- <img src="./images/m1_setup/works-mobile.png" alt="Toolbar" />
+ <img src="./images/m2_mobile/works-mobile.png" alt="Toolbar" />
 </p>
 
 
