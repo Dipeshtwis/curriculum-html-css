@@ -17,11 +17,19 @@ In this first milestone of your portfolio website, you will
 
 You will build the first 3 sections of the mobile website, using the template you chose in the previous step. We include screenshot of the Template 1 below, but you should stick to the template that you chose. The sections you need to build in this milestone are:
 - the toolbar (or header):
-![Toolbar](./images/m1_setup/toolbar-mobile.png)
+<p align="center">
+ <img src="./images/m1_setup/toolbar-mobile.png" alt="Toolbar" />
+</p>
+
 - the headline section (right after the header):
-![Headline](./images/m1_setup/headline-mobile.png)
+<p align="center">
+  <img src="./images/m1_setup/headline-mobile.png" alt="Headline" />
+</p>
+
 - the "About myself" section, placed after the projects and before the contact form:
-![About myself](./images/m1_setup/about-myself-mobile.png)
+<p align="center">
+  <img src="./images/m1_setup/about-myself-mobile.png" alt="About myself" />
+</p>
 
 Remember to
 - Use the appropriate tags for each element (e.g., links, titles, etc.) and use HTML5 semantic tags (e.g., header, nav) over `div`s
