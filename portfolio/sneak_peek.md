@@ -42,7 +42,7 @@ You will be building your website portfolio during the first module of the progr
 - Milestone 2: Mobile version
 - Milestone 3: Contact form
 - Milestone 4: Desktop version
-- Milestone 5: First MVP deploy
+- Milestone 5: Project deploy
 - Milestone 6: Evaluate accessibility
 - Milestone 7: Add scroll events
 - Milestone 8: Details modal
