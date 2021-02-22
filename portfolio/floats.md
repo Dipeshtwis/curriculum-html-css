@@ -6,16 +6,12 @@
 
 ### Estimated time: 1h
 
-## Description
-
-Welcome to a new lesson about CSS basics, this time featuring floats and positioning elements. Even if ancient, these techniques are very useful to be able to create websites that look exactly as the web design.
-
 ## Floats
 
-HTML elements are usually blocks that stack upon each other top down, so you will find a new block below the previous one (in the order you have them in the HTML file). `Float` is a CSS property that allows you to "float" elements to the right or to the left. Something that you already know how to do with flebox, right?
+HTML elements are usually blocks that stack upon each other top down, so you will find a new block below the previous one (in the order you have them in the HTML file). `Float` is a CSS property that allows you to "float" elements to the right or to the left. Something that you already know how to do with flexbox, right?
 
 ### Why is this important?
-Even if the use of floats cases have been reduced with the usage of new techniques like flebox or grid, it's worth knowing it. For example, when you have to float an image inside a text, the best tool to do it is still a *float*. 
+Even if the use of floats cases have been reduced with the usage of new techniques like flexbox or grid, it's worth knowing it. For example, when you have to float an image inside a text, the best tool to do it is still a *float*. 
 Also, there are plenty of CSS code bases that are using floats. When you need to work on a existing code based on floats you should be able to do it.
 
 ### Learn more
