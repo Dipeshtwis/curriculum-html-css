@@ -17,7 +17,7 @@ You will use GitHub Pages to deploy your website so that it is available online.
 
 
 In order to implement your website, follow these guidelines:
-- Deploy your website using Github pages
+- Deploy your website using GitHub pages
 - Check the online version of your portfolio, and make sure that the page works fine
 - Update the README of your repository to include a link to the online version
 
