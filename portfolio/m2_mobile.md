@@ -36,9 +36,7 @@ In all the HTML/CSS projects you should follow these guidelines:
 
 #### Project specific requirements
 In order to implement your portfolio website, follow these guidelines:
-- In order to lay out the elements on the page you should **use CSS grid and flexbox** combined (it is mandatory that you use both). 
-  
-  *Hint*: we recommend you to use grid in teh main container of all the cards, and flexbox to lay out an individual card.
+- In order to lay out the elements on the page you should **use CSS grid and flexbox** combined (it is mandatory that you use both). Use grid in the main container of all the cards, and flexbox to lay out an individual card.
 - You don't need to implement the detail modal window that requires JavaScript
 - You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the info of the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
 - Implement the button interactions (enable, hover, etc.)
