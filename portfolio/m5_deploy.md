@@ -11,6 +11,8 @@ In this milestone you will make your website to be available online.
 
 ### Requirements
 
+#### Project specific requirements
+
 You will use GitHub Pages to deploy your website so that it is available online.
 
 
