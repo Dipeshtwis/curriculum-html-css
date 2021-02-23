@@ -4,7 +4,7 @@
 
 - Use industry-standard tools (floats) to place elements in the page
 
-### Estimated time: 1h
+### Estimated time: 2h
 
 ## Floats
 
