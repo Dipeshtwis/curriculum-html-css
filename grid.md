@@ -4,7 +4,7 @@
 
 - Use industry-standard tools (CSS Grid) to place elements in the page
 
-### Estimated time: 2.5h
+### Estimated time: 1.5h
 
 ## Description
 
