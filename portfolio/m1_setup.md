@@ -72,7 +72,7 @@ Follow [these steps](https://github.com/microverseinc/curriculum-transversal-ski
 ## Submit your project
 
 After the final approval from a code reviewer, you need to submit your project.
-[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360063172293-How-to-submit-a-project-)
+[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
 Now go to your Student Dashboard and submit your project.
 
  
