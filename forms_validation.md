@@ -33,7 +33,7 @@ UX focuses on having a deep understanding of users, what they need, what they va
 Websites are tools that are being used by people. They should work in a way that feels natural for people and save them from frustration.
 Therefore, the better UX you provide, the bigger value you provide to your users. 
 
-### UX for we devlopers
+### UX for we developers
 
 UX designer is already a separate profession. That already tells a lot about how huge this topic is. As a short intro please read 
 - [UX for Developers: A Guide for Getting Started with UX Design](https://uxengineer.com/ux-for-developers/)
