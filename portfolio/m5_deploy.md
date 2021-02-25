@@ -9,14 +9,16 @@
 ## Description
 In this milestone you will make your website to be available online.
 
-### Requirements
+*IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
-#### Project specific requirements
+### General requirements
 
-You will use GitHub Pages to deploy your website so that it is available online.
+- Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
+- Make sure that you used correct flow ([Github Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
+- Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
+### Project requirements
 
-In order to implement your website, follow these guidelines:
 - Deploy your website using GitHub pages
 - Check the online version of your portfolio, and make sure that the page works fine
 - Update the README of your repository to include a link to the online version
@@ -26,14 +28,14 @@ In order to implement your website, follow these guidelines:
 
 Remind me about [the big picture of this project](./sneak_peek.md).
 
-### Code review / Review
+## Code review
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
 
-### Submit your project
+## Submit your project
 
 After the final approval from a code reviewer, you need to submit your project.
-[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360063172293-How-to-submit-a-project-)
+[Read this FAQ for a reminder on how to submit your project.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
 Now go to your Student Dashboard and submit your project.
 
  
