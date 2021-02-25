@@ -19,7 +19,7 @@ If you follow best practices, working with your code will be easier - for yourse
 
 ### Learn more
 
-In order to give you a set of quick tips, we create a handy list of Microverse [best practices for HTML&CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
+In order to give you a set of quick tips, we create a handy list of Microverse [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
 
 
 ## Semantic tags
