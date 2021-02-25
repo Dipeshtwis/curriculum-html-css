@@ -38,9 +38,6 @@ In all the HTML/CSS projects you should follow these guidelines:
 
 #### Project specific requirements
 In order to implement your portfolio website, follow these guidelines:
-- In order to lay out the elements on the page you should use flexbox in all the 3 sections
-- You don't need to implement any functionality that requires JavaScript, like open the menu or the dropdowns
-- You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the info of the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
 - Implement the button interactions (enable, hover, etc.)
 
 You will build the first 3 sections of the mobile website, using the template you chose in the previous step. We include screenshot of the Template 1 below, but you should stick to the template that you chose. The sections you need to build in this milestone are:
@@ -58,7 +55,9 @@ You will build the first 3 sections of the mobile website, using the template yo
 <p align="center">
   <img src="./images/m1_setup/about-myself-mobile.png" alt="About myself" />
 </p>
-
+- In order to lay out the elements on the page you should use flexbox in all the 3 sections
+- You don't need to implement any functionality that requires JavaScript, like open the menu or the dropdowns
+- You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the info of the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
 
 ### Need a big picture?
 

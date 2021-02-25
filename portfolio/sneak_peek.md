@@ -22,7 +22,7 @@ In essence, if you take a look at any of the example portfolios we list below, y
 - They are all **thorough**: while the design itself may be simple, they make use of links (both in-text and otherwise) to show extra background information about their work, projects, and history. 
 - And they all **look good**: they use 1-3 elegant fonts, focus on 2-3 different colors, use HD images, and use color palettes that look good together.
 
-### Portfolio Templates
+### Portfolio Templates & How to use Figma
 
 We have provided some solid portfolio templates you can choose from. 
 Choose the one you like the most. The templates are hosted on Figma - a collaborative UI design tool built in the browser. Please watch the video below to learn how to navigate the templates on Figma.
