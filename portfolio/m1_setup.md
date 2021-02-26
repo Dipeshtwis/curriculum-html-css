@@ -2,7 +2,7 @@
 
 ## Learning objectives
 - Understand how to parse a Figma design to create a UI.
-- Use industry-standard tools (flexbox) to place elements in the page.
+- Use industry-standard tools (Flexbox) to place elements in the page.
 - Build a personal portfolio site.
 - Use images and backgrounds to enhance the look of the website.
 
@@ -56,7 +56,7 @@ In all the HTML/CSS projects you should follow these guidelines:
     <p align="center">
       <img src="./images/m1_setup/about-myself-mobile.png" alt="About myself" />
     </p>
-- In order to lay out the elements on the page you should use flexbox in all the 3 sections
+- In order to lay out the elements on the page you should use Flexbox in all the 3 sections
 - You don't need to implement any functionality that requires JavaScript, like open the menu or the dropdowns
 - You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the info of the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
 - Implement the button interactions (enable, hover, etc.)

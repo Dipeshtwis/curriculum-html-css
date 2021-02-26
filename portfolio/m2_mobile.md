@@ -2,8 +2,8 @@
 
 ## Learning objectives
 - Understand how to parse a Figma design to create a UI.
-- Use industry-standard tools (flexbox) to place elements in the page.
-- Use industry-standard tools (Grid) to place elements in the page.
+- Use industry-standard tools (Flexbox) to place elements in the page.
+- Use industry-standard tools (CSS Grid) to place elements in the page.
 - Build a personal portfolio site.
 
 ### Estimated time: 4h
@@ -41,7 +41,7 @@ In all the HTML/CSS projects you should follow these guidelines:
       <p align="center">
        <img src="./images/m2_mobile/works-mobile.png" alt="Toolbar" />
       </p>
-- In order to lay out the elements on the page you should **use CSS grid and flexbox** combined (it is mandatory that you use both). Use grid in the main container of all the cards, and flexbox to lay out an individual card.
+- In order to lay out the elements on the page you should **use CSS Grid and Flexbox** combined (it is mandatory that you use both). Use grid in the main container of all the cards, and Flexbox to lay out an individual card.
 - You don't need to implement the detail modal window that requires JavaScript
 - You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the info of the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
 - Implement the button interactions (enable, hover, etc.)
