@@ -29,10 +29,7 @@ In this second milestone of your portfolio website, you will create the section 
     - Pull Request is made from “feature branch” into the `main` branch
 
 ### HTML/CSS requirements
-In all the HTML/CSS projects you should follow these guidelines:
-- Follow the best practices in this [HTML style guide](https://www.w3schools.com/html/html5_syntax.asp)
-- Use the appropriate tags for each element (e.g., links, titles, etc.) and use HTML5 semantic tags (e.g., header, nav) over `div`s
-- Avoid [CSS bad practices](https://speckyboy.com/good-bad-css-practices/)
+- Follow our list of the [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
 
 ### Project  requirements
 
