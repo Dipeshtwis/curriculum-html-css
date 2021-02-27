@@ -1,16 +1,30 @@
-# Semantic tags, box model and developer tools
+# Semantic tags, box model, and developer tools
 
 ## Learning objectives
 
 - Apply best practices in HTML code
 - Use semantic HTML tags
-- Use CSS selectors correctly, 397: Use CSS box model
+- Use CSS selectors correctly
+- Use CSS box model
 
 ### Estimated time: 2h
 
+## Best practices
+
+A consistent, clean, and tidy HTML code makes it easier for others to read and understand your code. In order to achieve that it is good to follow the guidelines that are already widely used by web developers.
+
+### Why are they important?
+
+If you follow best practices, working with your code will be easier - for yourself and for other developers.
+
+### Learn more
+
+In order to give you a set of quick tips, we create a handy list of Microverse [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
+
+
 ## Semantic tags
 
-Semantic tags (also known as HTML5 semantic tags) are a set of HTML tags introduced in HTML5 that help us to give more semantics to the markup of a website. For example, instead of using `div` tags to group elements, we can use a `header`, `nav` or `section` tags. 
+Semantic tags (also known as HTML5 semantic tags) are a set of HTML tags introduced in HTML5 that help us to give more semantics to the markup of a website. For example, instead of using `div` tags to group elements, we can use `header`, `nav`, or `section` tags. 
 
 ### Why are they important?
 
@@ -48,10 +62,12 @@ If trial-and-error does become necessary, it can be done using the browser's dev
 
 ### Learn more about the box model
 
-- Read [this tutorial by Shaye Howe](https://learn.shayhowe.com/html-css/opening-the-box-model/) and play around with the code examples. At the end of the tutorial you will get info on how to use the browser dev tools to better understand the box model.
+- Read [this tutorial by Shaye Howe](https://learn.shayhowe.com/html-css/opening-the-box-model/) and play around with the code examples. At the end of the tutorial, you will get info on how to use the browser dev tools to better understand the box model.
 - Watch this [10-minute video tutorial](https://www.youtube.com/watch?v=wcFnnxfA70g) about how to use developer tools.
 
 ## Additional Materials
+- Read the [HTML style guide](https://www.w3schools.com/html/html5_syntax.asp).
+- Check how to avoid [CSS bad practices](https://speckyboy.com/good-bad-css-practices/).
 - Read more about the CSS box model at [CSS tricks](https://css-tricks.com/the-css-box-model/) and [learnlayout's tutorial](https://learnlayout.com/box-model.html).
 - Read more about the CSS [display](https://learnlayout.com/display.html) and [box-sizing](https://learnlayout.com/box-sizing.html) properties from learnlayout's tutorials.
 - See [Mozilla's documentation on the Firefox developer tools](https://developer.mozilla.org/en-US/docs/Tools) or [Google's documentation on the Chrome developer tools](https://developers.google.com/web/tools/chrome-devtools/) to learn more about browser developer tools.
