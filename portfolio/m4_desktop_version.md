@@ -1,4 +1,4 @@
-# Milestone 3 - desktop version
+# Milestone 4 - desktop version
 
 ## Learning objectives
 - Ability to create UIs adaptable to different screen sizes using media queries.
@@ -10,7 +10,7 @@
 
 In the fourth milestone of your portfolio website, you will:
 
-- use media queries to make sure that your website is displayed correctly on big screens.
+- use media queries to make sure that your website is displayed correctly on desktop screens.
 
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
@@ -27,7 +27,7 @@ In the fourth milestone of your portfolio website, you will:
 
 ### Project requirements
 
-- You need to make sure that your Dekstop version looks like the one in the design (Template-main file).
+- You need to make sure that your Dekstop version looks like the one in the design (*TemplateX-main*  file). 
 - Use media queries in your CSS file to achieve that.
 - In order to layout the elements on the page you should use flexbox.
 - You don't need to implement any functionality that requires JavaScript.
