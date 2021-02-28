@@ -26,12 +26,13 @@ In the sixth milestone of your portfolio website, you will:
 
 ### Project requirements
 
-- You need to go through the [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/) (that you have already read in the previous lesson) and check if your Portfolio needs any changes.
+- Go through the [Easy Checks – A First Review of Web Accessibility](https://www.w3.org/WAI/test-evaluate/preliminary/) (that you have already read in the previous lesson)
+- Check if your Portfolio needs any changes.
 - You need to prepare a report listing
      - all points that you have checked
      - the result of your evaluation
-        - if everything was ok to make a statement about that
-        - if you needed to change something - link to the changes that you implemented 
+        - if everything was ok, make a statement about that
+        - if you needed to change something, link to the corresponding line of code in your Pull Request changes
 
 ### Need a big picture?
 
