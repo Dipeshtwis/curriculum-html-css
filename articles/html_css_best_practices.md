@@ -1,8 +1,8 @@
 # HTML & CSS best practices
 
 1. Use the appropriate tags for each element (e.g., links, titles, etc.) and use HTML5 semantic tags (e.g., header, nav) over `div`s.
-2. Avoid too long code lines.
-3. Be careful with blank lines and indentation
+2. Avoid lines of code that are too long (100 characters or more).
+3. Be careful with blank lines and indentation.
     - Do not add blank lines, spaces, or indentations without a reason.
     - For readability, add blank lines to separate large or logical code blocks.
     - For readability, add two spaces of indentation. Do not use the tab key.
