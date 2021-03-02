@@ -13,7 +13,7 @@
 
 A consistent, clean, and tidy HTML code makes it easier for others to read and understand your code. In order to achieve that it is good to follow the guidelines that are already widely used by web developers.
 
-### Why are they important?
+### Why are best practices important?
 
 If you follow best practices, working with your code will be easier - for yourself and for other developers.
 
@@ -26,7 +26,7 @@ In order to give you a set of quick tips, we create a handy list of Microverse [
 
 Semantic tags (also known as HTML5 semantic tags) are a set of HTML tags introduced in HTML5 that help us to give more semantics to the markup of a website. For example, instead of using `div` tags to group elements, we can use `header`, `nav`, or `section` tags. 
 
-### Why are they important?
+### Why are semantic tags important?
 
 Using semantic tags does not change the appearance of the website in the browser. So why is it important to use semantic tags? Quite simply, semantic tags more accurately describe the content that is on the page. Describing the contents of the page more semantically can have many benefits, such as:
 
@@ -54,7 +54,7 @@ These properties can be changed using CSS. Changing any one of those properties 
 
 The box model is not the only thing that can change the look of an HTML element. Every element also has a `display` property that defines how it stacks with the other elements, e.g., horizontally, vertically, hidden, etc. that can affect its appearance.
 
-### Why is this important?
+### Why is the box model important?
 
 Understanding the box model and what properties can change the appearance of an HTML element can enable you to style HTML elements with CSS quickly and easily without having to attempt trial-and-error changes.
 
@@ -65,13 +65,15 @@ If trial-and-error does become necessary, it can be done using the browser's dev
 - Read [this tutorial by Shaye Howe](https://learn.shayhowe.com/html-css/opening-the-box-model/) and play around with the code examples. At the end of the tutorial, you will get info on how to use the browser dev tools to better understand the box model.
 - Watch this [10-minute video tutorial](https://www.youtube.com/watch?v=wcFnnxfA70g) about how to use developer tools.
 
+## Challenge Yourself
+*Use these questions to check what you learned during this lesson.*
+
+- [20 questions quiz about Semantic tags, box model and developer tools](https://docs.google.com/forms/d/e/1FAIpQLSczJp36Eeo1DflTJDQMiAdRMQcS4GLvdVGVVlQPxyJbA8tp_g/viewform)
+
 ## Additional Materials
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 - Read the [HTML style guide](https://www.w3schools.com/html/html5_syntax.asp).
 - Check how to avoid [CSS bad practices](https://speckyboy.com/good-bad-css-practices/).
 - Read more about the CSS box model at [CSS tricks](https://css-tricks.com/the-css-box-model/) and [learnlayout's tutorial](https://learnlayout.com/box-model.html).
 - Read more about the CSS [display](https://learnlayout.com/display.html) and [box-sizing](https://learnlayout.com/box-sizing.html) properties from learnlayout's tutorials.
 - See [Mozilla's documentation on the Firefox developer tools](https://developer.mozilla.org/en-US/docs/Tools) or [Google's documentation on the Chrome developer tools](https://developers.google.com/web/tools/chrome-devtools/) to learn more about browser developer tools.
-
-## Quiz
-
-[Assess your learning with this quiz](https://docs.google.com/forms/d/e/1FAIpQLSczJp36Eeo1DflTJDQMiAdRMQcS4GLvdVGVVlQPxyJbA8tp_g/viewform)
