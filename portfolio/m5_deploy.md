@@ -1,13 +1,13 @@
 # Milestone 5 - Project deploy
 
 ## Learning objectives
-- Use Github pages to deploy web pages.
+- Use GitHub Pages to deploy web pages.
 - Demonstrate ability to ask clarifying questions about ambiguous requirements.
 
 ### Estimated time: 1.5h
 
 ## Description
-In this milestone you will make your website to be available online.
+For this milestone you will make your website available online.
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
@@ -19,9 +19,9 @@ In this milestone you will make your website to be available online.
 
 ### Project requirements
 
-- Deploy your website using GitHub pages
-- Check the online version of your portfolio, and make sure that the page works fine
-- Update the README of your repository to include a link to the online version
+- Deploy your website using GitHub Pages.
+- Check the online version of your portfolio and make sure that the page works properly.
+- Update the README of your repository to include a link to the online version.
 
 
 ### Need a big picture?
@@ -39,5 +39,4 @@ After the final approval from a code reviewer, you need to submit your project.
 Now go to your Student Dashboard and submit your project.
 
  
-
 
