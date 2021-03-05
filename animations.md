@@ -33,4 +33,5 @@ A nice use of animations and transitions can make your webapp
 ## Additional Materials
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+- Read this tutorial on [how to use the CSS transform functions](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 - Play around with these [simple CSS spinners](https://tobiasahlin.com/spinkit/) to get some inspiration of what you can do with animations
