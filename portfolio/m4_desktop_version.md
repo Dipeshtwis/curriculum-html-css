@@ -27,8 +27,7 @@ In the fourth milestone of your portfolio website, you will:
 
 ### Project requirements
 
-- You need to make sure that your Dekstop version looks like the one in the design ((we include a screenshot of Template 1 below for reference, but you should stick to the template that you chose). 
-    - the contact form in the footer:
+- You need to make sure that your Dekstop version looks like the one in the design (we include a screenshot of Template 1 below for reference, but you should stick to the template that you chose). 
     <p align="center">
      <img src="./images/m4_desktop/desktop.png" alt="Desktop" />
     </p>
