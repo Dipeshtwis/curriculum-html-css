@@ -27,7 +27,13 @@ In the fourth milestone of your portfolio website, you will:
 
 ### Project requirements
 
-- You need to make sure that your Dekstop version looks like the one in the design (*TemplateX-main*  file). 
+- You need to make sure that your Dekstop version looks like the one in the design ((we include a screenshot of Template 1 below for reference, but you should stick to the template that you chose). 
+    - the contact form in the footer:
+    <p align="center">
+     <img src="./images/m4_desktop/desktop.png" alt="Desktop" />
+    </p>
+
+
 - Use media queries in your CSS file to achieve that.
 - In order to layout the elements on the page you should use flexbox.
 - You don't need to implement any functionality that requires JavaScript.
