@@ -8,7 +8,7 @@
 
 ## Description
 
-You already know JavaScript as you proved in the Trials. 
+You already know JavaScript as you proved in the Trials. But it is worth a recap on the syntax of teh language, mostly about how to manipulate data structures (arrays and objects).
 
 ### Why is refreshing JavaScript syntax important?
 
