@@ -1,7 +1,8 @@
 # Milestone 3 - add a contact form and finish the mobile version
 
 ## Learning objectives
-- Using forms and validations.
+
+- Use forms and validations.
 - Understand the importance of UX.
 - Understand how to parse a Figma design to create a UI.
 
@@ -9,43 +10,43 @@
 
 ## Description
 
-In the third milestone of your portfolio website, you will:
+For the third milestone of your portfolio website, you will:
 
 - Add a contact form to your portfolio and the portfolio of your coding partner.
 - Make sure that you guide your users' experience in a way that helps them fill in the form without frustration.
-
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
 ### General requirements
 
 - Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct flow ([Github Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
+- Make sure that you used correct [GitHub flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
 - Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
 ### HTML/CSS requirements
 
-- Follow our list of the [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
+- Follow our list of [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
 
 ### Project requirements
 
-- The section you need to build in this milestone is (we include a screenshot of Template 1 below for reference, but you should stick to the template that you chose):
+- The section you need to build for this milestone is: 
     - the contact form in the footer:
     <p align="center">
      <img src="./images/m3_contact_form/contact_form.png" alt="Form" />
     </p>
+We included a screenshot of Template 1 for reference, but you should follow the template that you chose.
 - Make sure that:
     - Name field accepts up to 30 chars.
     - Email field accepts only emails.
     - Message field accepts up to 500 chars.
     - All fields have placeholder text.
     - All fields have the correct type.
-    - A user cannot submit the form if at least one of the fields is empty.
+    - A user cannot submit the form if one or more of the fields is empty.
 - Collect data by using the [Formspree service](https://formspree.io/html).
-- In order to layout the elements on the page you should use flexbox.
+- In order to lay out the elements on the page you should use Flexbox.
 - You don't need to implement any functionality that requires JavaScript.
-- You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the info of the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
-- Implement the button interactions (enable, hover, etc.)
+- You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
+- Implement the button interactions (enable, hover, etc.).
 
 ### Need a big picture?
 
