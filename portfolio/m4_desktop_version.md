@@ -34,7 +34,7 @@ In the fourth milestone of your portfolio website, you will:
 
 
 - Use media queries in your CSS file to achieve that.
-- In order to layout the elements on the page you should use flexbox.
+- In order to layout the elements on the page you should use Grid and Flexbox.
 - You don't need to implement any functionality that requires JavaScript.
 - You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the info of the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
 
