@@ -15,10 +15,11 @@ As you know, we use HTML forms to collect user input. In order to make sure that
 In web application, as in any other software applications, the data and its consistency are key. In order to help that we are storing consistent user data in our server we should use data validations in the browser.
 
 ### Learn more
-- Read the [Client-side form validation tutorial](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) from MDN
+- Read the [Client-side form validation tutorial](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) by MDN
 
 
 ## Additional Materials
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 - Make these small exercises to assess your form validation skills from [Test your skills: Form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Form_validation) by MDN. 
+- Read this [tutorial to create a signup form and validate it from scratch](https://www.javascripttutorial.net/javascript-dom/javascript-form-validation/) by JavaScript Tutorial.
