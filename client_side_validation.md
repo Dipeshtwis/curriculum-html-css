@@ -2,9 +2,10 @@
 
 ## Learning objectives
 
+- Process user input according to business rules.
 - Use client-side validation to catch and throw errors in the UI.
 
-### Estimated time: 1h
+### Estimated time: 2h
 
 ## Description
 
@@ -16,10 +17,13 @@ In web application, as in any other software applications, the data and its cons
 
 ### Learn more
 - Read the [Client-side form validation tutorial](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) by MDN
-
+- Read this tutorial to learn [how to validate forms using JavaScript](https://www.javascripttutorial.net/javascript-dom/javascript-form/) by JavaScript Tutorial.
 
 ## Additional Materials
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-- Make these small exercises to assess your form validation skills from [Test your skills: Form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Form_validation) by MDN. 
+- Make these small exercises to assess your form validation skills from [Test your skills: Form validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Test_your_skills:_Form_validation) by MDN.
+- Tutorial about [manipulating checkboxes with JavaScript](https://www.javascripttutorial.net/javascript-dom/javascript-checkbox/) by JavaScript Tutorial.
+- Tutorial about [manipulating radio buttons with JavaScript](https://www.javascripttutorial.net/javascript-dom/javascript-radio-button/) by JavaScript Tutorial.
+- Tutorials about [manipulating selects](https://www.javascripttutorial.net/javascript-dom/javascript-select-box/) and [add/remove options with JavaScript](https://www.javascripttutorial.net/javascript-dom/javascript-add-remove-options/) by JavaScript Tutorial.
 - Read this [tutorial to create a signup form and validate it from scratch](https://www.javascripttutorial.net/javascript-dom/javascript-form-validation/) by JavaScript Tutorial.
