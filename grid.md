@@ -2,13 +2,13 @@
 
 ## Learning objectives
 
-- Use industry-standard tools (CSS Grid) to place elements in the page
+- Use industry-standard tools (CSS Grid) to place elements in the page.
 
 ### Estimated time: 1.5h
 
 ## Description
 
-Similar to Flexbox, CSS Grid layout is a layout tool that helps developers arrange HTML elements on the page. Specifically, CSS Grid is useful for laying elements out in a grid with several rows and columns.
+Similar to Flexbox, CSS Grid is a layout tool that helps developers arrange HTML elements on the page. Specifically, CSS Grid is useful for laying elements out in a grid with several rows and columns.
 
 ### Why is this important?
 
