@@ -15,7 +15,6 @@ As you know, we use HTML forms to collect user input. In order to make sure that
 In web application, as in any other software applications, the data and its consistency are key. In order to help that we are storing consistent user data in our server we should use data validations in the browser.
 
 ### Learn more
-Read the following tutorials to learn the basics of the DOM manipulation (60'):
 - Read the [Client-side form validation tutorial](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) from MDN
 
 
