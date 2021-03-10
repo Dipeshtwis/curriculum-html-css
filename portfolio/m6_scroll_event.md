@@ -20,12 +20,9 @@ For this milestone of your portfolio website, you will implement the mobile menu
 - Make sure that you used correct [GitHub flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
 - Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
-### HTML/CSS requirements
+### HTML/CSS & JavaScript requirements
 
 - Follow our list of [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
-
-### JavaScript requirements
-
 - Follow our list of [best practices for JavaScript](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md).
 
 ### Project requirements
@@ -57,7 +54,9 @@ Now go to your Student Dashboard and submit your project.
 
 ## Additional requirements
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+*These are all optional, but if you're interested in exploring this topic further, feel free to implement them. Any exploration here should be done outside program time.*
+
+*If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments.*
 
 - In desktop, when the user scrolls you need to check if the user scrolled to a new section. If so, you should highlight the name of the section in the menu manipulating the DOM (using CSS classes).
   <p align="center">
