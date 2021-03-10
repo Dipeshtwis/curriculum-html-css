@@ -10,6 +10,8 @@
 In this exercise, you will add some transitions and animations to your portfolio website. You will work doing pair programming with your coding partner to implement the changes in both of your projects. Let's make our portfolio more attractive!
 
 ### Instructions
+*IMPORTANT NOTE: Read **all** instructions before you start this exercise.*
+
 - First, you need to create a new brach in your repository for this exercise
 - Think about the user experience of your portfolio and how you can improve it using what you learned in the previous session about transitions and animations
   - In what elements can you use transitions to improve the browsing experience in desktop? What properties of those elements make sense to transition?
@@ -20,8 +22,10 @@ In this exercise, you will add some transitions and animations to your portfolio
   - The text of the form instructions moves slightly to the right when the user hovers it (tip: use the [CSS translate function](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate()))
   - Make an animation for the logo of the page, so when you load the page it rotates once (tip: use the [CSS rotate function](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate()))
 - You should make your own decisions about what transitions and animations you will introduce in your portfolio. Be mindful with the time estimate for this activity and don't plan to do more than you can achieve.
-- Once you decide what to do, it is time to implement and make your website even better! 
+- Once you decide what to do, it is time to implement and make your portfolio even better!
+- When everything is ready, open a new Pull Request with a nice description of what you did and merge it yourself without code review: we trust you to do it well!
 
 ### Submit your exercise
 [Read this FAQ for a reminder on how to submit your exercise.](https://microverse.zendesk.com/hc/en-us/articles/360061344234)
 Now go to your Student Dashboard and submit your exercise.
+Paste the link to your merged Pull Request.
