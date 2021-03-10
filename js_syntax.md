@@ -8,13 +8,19 @@
 
 ## Description
 
-You already know JavaScript as you proved in the Trials. But it is worth a recap on the syntax of teh language, mostly about how to manipulate data structures (arrays and objects).
+You already know JavaScript as you proved in the Trials. But it is worth a recap on the syntax of teh language, mostly about how to manipulate data structures (arrays and objects). Also, we will have a look at the JavaScript best practices.
 
-### Why is refreshing JavaScript syntax important?
+### Why is refreshing your JavaScript important?
 
-In the next lessons and projects you will be using JavaScript a lot. It is important that you refresh your basic Javascript knowledge in order to face the next lessons and projects in a better way.
+In the next lessons and projects you will be using JavaScript a lot. It is important that you refresh your basic Javascript knowledge in order to face the next lessons and projects in a better way. 
+
+### Why are JavaScript best practices important?
+
+If you follow best practices, working with your code will be easier - for yourself and for other developers.
 
 ### Learn more
+
+Learn about the [JavaScript best practices](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md) that you will need to implement in all the Microverse projects.
 
 Refresh your knowledge about JavaScript arrays with these interactive tutorials (spend 5 minutes of each of them):
 
@@ -33,10 +39,6 @@ Refresh your knowledge about JavaScript objects with these interactive tutorials
 - [Add Key-Value Pairs to JavaScript Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-key-value-pairs-to-javascript-objects)
 
 - [Modify an Object Nested Within an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object)
-
-- [Access Property Names with Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation)
-
-- [Iterate Through the Keys of an Object with a for...in Statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-the-keys-of-an-object-with-a-for---in-statement)
 
 - [Modify an Array Stored in an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
 
