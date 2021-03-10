@@ -39,7 +39,7 @@ For the first milestone in the process of creating your portfolio website, you w
 - Follow our list of [best practices for HTML & CSS](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md).
 
 ### Project requirements
-
+- For this project, you should use the [HTML&CSS linter](https://github.com/microverseinc/linters-config/tree/master/html-css)
 - The 3 sections you need to build for this milestone are:
 
     - the toolbar (or header):
