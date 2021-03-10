@@ -10,12 +10,15 @@
 
 Objects are a data structure in JavaScript to store data in a key-value structure.
 
-### Why is storing user input important?
+### Why are JavaScript objects important?
 
 When you create a JavaScript program it will become handy to use objects to store and access data.
 
 ### Learn more
 - Read this tutorial to learn [about JavaScript objects](https://www.javascripttutorial.net/javascript-objects/) by JavaScript Tutorial.
+- Practice objects with these interactive lessons:
+  - [Access Property Names with Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation)
+  - [Iterate Through the Keys of an Object with a for...in Statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-the-keys-of-an-object-with-a-for---in-statement)
 
 ## Additional Materials
 
