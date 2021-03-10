@@ -27,6 +27,7 @@ For this milestone of your portfolio website, you will implement the mobile menu
 
 ### Project requirements
 
+- For this project, you should use the [JavaScript linter](https://github.com/microverseinc/linters-config/tree/master/javascript)
 - In mobile
   - when the user click (or tap) the hamburger button, the mobile menu appears
   - when the user click (or tap) the close (X) button, the mobile menu disappear
