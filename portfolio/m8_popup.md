@@ -6,6 +6,7 @@
 - Use JavaScript to manipulate DOM elements.
 - Use JavaScript events.
 - Understand how to parse a Figma design to create a UI.
+- Use objects to store and access data.
 
 ### Estimated time: 4.5h
 
