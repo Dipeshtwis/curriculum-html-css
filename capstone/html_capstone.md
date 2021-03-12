@@ -13,6 +13,7 @@
 - Use JavaScript to manipulate DOM elements.
 - Use JavaScript events.
 - Use objects to store and access data.
+- Communicate technical concepts to other technical people.
 
 ### Estimated time: 19.5h
 
