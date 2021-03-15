@@ -10,7 +10,7 @@
 
 ## Description
 
-As you may know, we can use JavaScript to make changes in a webpage. The interface (API) to access the HTML elements from JavaScript is called the DOM (Document Object Model). Using the DOM you can access the HTML elements of your website and manipulate them.
+As you may know, we can use JavaScript to make changes in a webpage: JavaScript is a client-side programming language, that is, it is executed in the user's browser. The interface (API) to access the HTML elements from JavaScript is called the DOM (Document Object Model). Using the DOM you can access the HTML elements of your website and manipulate them.
 
 Also, the DOM allows you to be aware of how the user is interacting with our website, and execute some actions when the user "triggers an event". For example, when the user clicks a button we can execute JavaScript code to show a success message.
 
