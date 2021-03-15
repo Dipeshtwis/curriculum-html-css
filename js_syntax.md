@@ -8,42 +8,41 @@
 
 ## Description
 
-You already know JavaScript as you proved in the Trials. But it is worth a recap on the syntax of teh language, mostly about how to manipulate data structures (arrays and objects). Also, we will have a look at the JavaScript best practices.
+You already know JavaScript as you proved in the Admissions Trials. But it is worth a recap on the syntax of the language, mostly about how to manipulate data structures (arrays and objects). We will also look at JavaScript best practices.
 
-### Why is refreshing your JavaScript important?
+### Why is refreshing your JavaScript knowledge important?
 
-In the next lessons and projects you will be using JavaScript a lot. It is important that you refresh your basic Javascript knowledge in order to face the next lessons and projects in a better way. 
+You will be using a lot of JavaScript in the next several lessons and projects, so it is important that you refresh your basic JavaScript knowledge in order to write JavaScript that follows the best practices.
 
 ### Why are JavaScript best practices important?
 
-If you follow best practices, working with your code will be easier - for yourself and for other developers.
+If you follow best practices, working with your code will be easier - for you and for other developers.
 
 ### Learn more
 
-Learn about the [JavaScript best practices](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md) that you will need to implement in all the Microverse projects.
+Learn about the [JavaScript best practices](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/html_css_best_practices.md) that you will need to adhere to in all of your Microverse projects.
 
-Refresh your knowledge about JavaScript arrays with these interactive tutorials (spend 5 minutes of each of them):
+Refresh your knowledge about JavaScript arrays with these interactive tutorials (spend 5 minutes on each of them):
 
-- [Use an Array to Store a Collection of Data](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data)
+- [Use an array to store a collection of data](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data)
 
-- [Access an Array's Contents Using Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-an-arrays-contents-using-bracket-notation)
+- [Access an array's contents using bracket notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-an-arrays-contents-using-bracket-notation)
 
-- [Add Items to an Array with push() and unshift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-to-an-array-with-push-and-unshift)
+- [Add items to an array with push() and unshift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-to-an-array-with-push-and-unshift)
 
-- [Check For The Presence of an Element With indexOf()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof)
+- [Check for the presence of an element with indexOf()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof)
 
-- [Iterate Through All an Array's Items Using For Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
+- [Iterate through all an array's items using for loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
 
-Refresh your knowledge about JavaScript objects with these interactive tutorials (spend 5 minutes of each of them):
+Refresh your knowledge about JavaScript objects with these interactive tutorials (spend 5 minutes on each of them):
 
-- [Add Key-Value Pairs to JavaScript Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-key-value-pairs-to-javascript-objects)
+- [Add key-value pairs to JavaScript objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-key-value-pairs-to-javascript-objects)
 
-- [Modify an Object Nested Within an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object)
+- [Modify an object nested within an object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object)
 
-- [Modify an Array Stored in an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
+- [Modify an array stored in an object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
 
-
-## Additional Materials
+## Additional materials
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 - Complete the rest of [the challenges about basic data structures in JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/) from FreeCodeCamp. 
