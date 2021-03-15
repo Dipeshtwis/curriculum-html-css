@@ -26,10 +26,10 @@ For this milestone of your portfolio website, you will implement a client-side v
 
 ### Project requirements
 
-- You are going to implement a simple validation
+- You need to implement a simple validation
   - The content of the email field has to be in lower case
-- Interactions
-  - when the user submits the form, you check if the email is in lower case (you may find handy the JavaScript function `toLowerCase()`)
+- You should implement the following interactions:
+  - when the user submits the form, you check if the email is in lower case
   - if the validation is OK, the form is sent
   - if the validation is not OK, you show an error message to the user close to the submit button informing of the error and the form is not sent
   <p align="center">
