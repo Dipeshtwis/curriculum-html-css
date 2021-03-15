@@ -25,10 +25,10 @@ For this final milestone of your portfolio website, you will save the form data 
 
 ### Project requirements
 
-- Interactions
+- You should implement the following interactions:
   - when the user changes the content of any input field, the data is saved to the local storage
   - when the user loads the page, if there is any data in the local storage, the input fields are pre-filled with this data
-- Data model
+- You should use the following data model:
   - you must create and save in local storage **a single JavaScript object with all the data of the form** (not one local storage entry per input field)
 
 
