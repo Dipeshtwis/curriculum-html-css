@@ -8,7 +8,7 @@
 
 ## Description
 
-Web (local ans session) storage APIs allows you to save data persistently in the browser, that is, the data remains even if the user reloads the page or closes the browser.
+The web storage API, including local and session storage, allows you to save data persistently in the browser, that is, the data remains even if the user reloads the page or closes the browser.
 
 ### Why is local storage important?
 
