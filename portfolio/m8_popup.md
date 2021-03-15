@@ -29,17 +29,18 @@ For this milestone of your portfolio website, you will implement the popup windo
 
 ### Project requirements
 
-- Interactions
+- You should implement the following interactions:
   - when the user clicks (or taps) the button to check project details, the popup with details about the project appears
   - when the user clicks (or taps) the close (X) button, the popup disappears
-- Mobile popup
-  <p align="center">
-    <img src="./images/m8_popup/modal_mobile.png" alt="Mobile popup" />
-  </p>
-- Desktop popup
-  <p align="center">
-    <img src="./images/m8_popup/modal_desktop.png" alt="Desktop popup" />
-  </p>
+- You should implement popups for both screen sizes
+  - Mobile popup
+    <p align="center">
+      <img src="./images/m8_popup/modal_mobile.png" alt="Mobile popup" />
+    </p>
+  - Desktop popup
+    <p align="center">
+      <img src="./images/m8_popup/modal_desktop.png" alt="Desktop popup" />
+    </p>
 We included a screenshot of Template 5 for reference, but you should follow the template that you chose.
 - You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
 - In order to associate each project with the popup window details, you must use **a JavaScript array to store all the information of the projects**.
