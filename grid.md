@@ -8,7 +8,7 @@
 
 ## Description
 
-Similar to Flexbox, CSS Grid layout is a layout tool that helps developers arrange HTML elements on the page. Specifically, CSS Grid is useful for laying elements out in a grid with several rows and columns.
+Similar to Flexbox, CSS Grid is a layout tool that helps developers arrange HTML elements on the page. Specifically, CSS Grid is useful for laying elements out in a grid with several rows and columns.
 
 ### Why is CSS Grid important?
 

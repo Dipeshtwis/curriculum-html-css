@@ -2,10 +2,10 @@
 
 ## Learning objectives
 
-- Apply best practices in HTML code
-- Use semantic HTML tags
-- Use CSS selectors correctly
-- Use CSS box model
+- Apply best practices in HTML code.
+- Use semantic HTML tags.
+- Use CSS selectors correctly.
+- Use CSS box model.
 
 ### Estimated time: 2h
 
@@ -24,7 +24,7 @@ In order to give you a set of quick tips, we create a handy list of Microverse [
 
 ## Semantic tags
 
-Semantic tags (also known as HTML5 semantic tags) are a set of HTML tags introduced in HTML5 that help us to give more semantics to the markup of a website. For example, instead of using `div` tags to group elements, we can use `header`, `nav`, or `section` tags. 
+Semantic tags (also known as HTML5 semantic tags) are a set of HTML tags introduced in HTML5 that allow developers to more accurately describe the relationship between HTML elements on a webpage. For example, instead of using `div` tags to group elements we can use `header`, `nav` or `section` tags depending on what specific type of group of elements we are trying to make. 
 
 ### Why are semantic tags important?
 
@@ -32,7 +32,7 @@ Using semantic tags does not change the appearance of the website in the browser
 
 - Making code easier for people to navigate when updating features or fixing bugs.
 - Giving your page a higher Search Engine Optimization (SEO) score, which makes your content more visible on search engines.
-- Allowing users with special needs to access your website using alternative means such as screen readers, a device that reads the contents of a webpage aloud to users who have visual impairments.
+- Allowing users with special needs to access your website using alternative means such as screen readers, which are devices that read the contents of a webpage aloud to users who have visual impairments.
 
 ### Learn more
 
