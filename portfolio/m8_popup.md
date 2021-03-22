@@ -48,6 +48,8 @@ We included a screenshot of Template 5 for reference, but you should follow the 
   - You need to update the main page so that the projects section is created dynamically with the information of that object (all the HTML of the section is created when the page loads)
   - After that, you could implement the popup window
 
+- **You need to use pair-programming for this project (and we will check if it is reflected in commits). Therefore you need to implement the above features in all of the portfolios in your pair-programming group.**
+
 
 ### Need a big picture?
 
@@ -56,6 +58,8 @@ Remind me about [the big picture of this project](./sneak_peek.md).
 ## Code review
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
+
+Each of you needs to request a code review individually.
 
 ## Submit your project
 
