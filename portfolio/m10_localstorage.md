@@ -31,6 +31,8 @@ For this final milestone of your portfolio website, you will save the form data 
 - You should use the following data model:
   - you must create and save in local storage **a single JavaScript object with all the data of the form** (not one local storage entry per input field)
 
+- **You need to use pair-programming for this project (and we will check if it is reflected in commits). Therefore you need to select one of the portfolios in your pair-programming group in which you will implement the above features.**
+
 
 ### Need a big picture?
 
