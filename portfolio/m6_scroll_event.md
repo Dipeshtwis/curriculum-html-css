@@ -39,6 +39,8 @@ We included a screenshot of Template 5 for reference, but you should follow the 
 
 - You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
 
+- **You need to use pair-programming for this project (and we will check if it is reflected in commits). Therefore you need to implement the above features in all of the portfolios in your pair-programming group.**
+
 ### Need a big picture?
 
 Remind me about [the big picture of this project](./sneak_peek.md).
@@ -46,6 +48,8 @@ Remind me about [the big picture of this project](./sneak_peek.md).
 ## Code review
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
+
+Each of you needs to request a code review individually.
 
 ## Submit your project
 
