@@ -8,11 +8,11 @@
 
 ## Description
 
-The web storage API, including local and session storage, allows you to save data persistently in the browser, that is, the data remains even if the user reloads the page or closes the browser.
+The web storage API, including local and session storage, allows you to save data persistently in the browser. That means that the data is saved even if the user reloads the page or closes the browser.
 
 ### Why is local storage important?
 
-As a web developer, you can store user data in the browser in order to improve the user experience. For example, you can save user settings about your service so that the user does not have to introduce them every time. Also, you can store the data while the user is filling a form so they can continue the process from where they left even if they close the browser.
+As a web developer, you can store user data in the browser in order to improve the user experience. For example, you can save user settings related to your service so that the user does not have to set them every time. Also, you can store the data while the user is filling a form so they can continue the process from where they left even if they close the browser.
 
 ### Learn more
 - Read this tutorial on [how to use the web storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API) by MDN.
