@@ -9,7 +9,7 @@
 
 *Your portfolio* is one of the most powerful tools in your software developer toolbox; it’s the easiest way of showing what you’re truly capable of as a developer, and is a quick and simple way for recruiters and hiring managers to get an idea of what you can bring to their teams.
 
-In this project (divided into different milestones) you will be building a website for your portfolio. A portfolio website is a key job searching tool for a web developer, and we want you to start working on it from the beginning of the Microverse program. In this project, you will **precisely replicate one of the portfolio templates** we are providing for you. However, during your Microverse journey you will include your own projects in the portfolio in order to use it for job searching.
+In this application (divided into multiple projects) you will be building a website for your portfolio. A portfolio website is a key job searching tool for a web developer, and we want you to start working on it from the beginning of the Microverse program. In this project, you will **precisely replicate one of the portfolio templates** we are providing for you. However, during your Microverse journey you will include your own projects in the portfolio in order to use it for job searching.
 
 
 ### What makes a good portfolio?
@@ -34,16 +34,16 @@ Here you will find [the Microverse Student Portfolio Templates](https://www.figm
 
 **You should select one template for your personal portfolio in order to proceed with the next steps.**
 
-### Project milestones
+### Projects list
 
-You will be building your website portfolio during the first module of the program. Here is the list of project milestones. You will find details about each of the milestone requirements in the upcoming program activities. In some of the milestones you will be working individually, but in others you will be working collaboratively with your coding partner.
-- Milestone 1: Setup and mobile version skeleton
-- Milestone 2: Mobile version
-- Milestone 3: Contact form
-- Milestone 4: Desktop version
-- Milestone 5: Project deploy
-- Milestone 6: Evaluate accessibility
-- Milestone 7: Add scroll events
-- Milestone 8: Details modal
-- Milestone 9: Process user input
-- Milestone 10: Preserve data in the browser
+You will be building your website portfolio during the first module of the program. Here is the list of projects that will guide you. You will find details about each of the projects requirements in the upcoming program activities. In some of the projects you will be working individually, but in others you will be working collaboratively with your coding partner.
+- Project 1: Setup and mobile version skeleton
+- Project 2: Mobile version
+- Project 3: Contact form
+- Project 4: Desktop version
+- Project 5: Project deploy
+- Project 6: Evaluate accessibility
+- Project 7: Add scroll events
+- Project 8: Details modal
+- Project 9: Process user input
+- Project 10: Preserve data in the browser
