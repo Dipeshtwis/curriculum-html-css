@@ -1,4 +1,4 @@
-# Milestone 2 - Mobile version
+# Project 2 - Mobile version
 
 ## Learning objectives
 - Understand how to parse a Figma design to create a UI.
