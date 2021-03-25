@@ -1,4 +1,4 @@
-# Milestone 4 - desktop version
+# Portfolio: desktop version
 
 ## Learning objectives
 - Ability to create UIs adaptable to different screen sizes using media queries.
