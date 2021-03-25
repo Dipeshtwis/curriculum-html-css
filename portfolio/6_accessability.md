@@ -1,4 +1,4 @@
-# Milestone 6 - Accessibility
+# Portfolio: accessibility
 
 ## Learning objectives
 - Describe core principles of building accessible websites and explain why accessibility is important.
