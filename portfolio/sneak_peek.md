@@ -24,9 +24,8 @@ In essence, if you look at any of the example portfolios we list below, you’ll
 
 ### Portfolio templates & how to use Figma
 
-We have provided some solid portfolio templates you can choose from. Choose the one you like the most. The templates are hosted on Figma - a collaborative UI design tool built in the browser. Please watch the video below to learn how to navigate the templates on Figma.
+We have provided some solid portfolio templates you can choose from. Choose the one you like the most. The templates are hosted on Figma - a collaborative UI design tool built in the browser. Please watch [this video](https://www.loom.com/embed/167236d17f104fc18298c5c9888354c9) to learn how to navigate the templates on Figma.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/167236d17f104fc18298c5c9888354c9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 If you still have questions about how to use Figma you can visit and interact with [the Figma community](https://forum.figma.com/).
 
