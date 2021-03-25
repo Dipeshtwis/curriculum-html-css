@@ -1,4 +1,4 @@
-# Milestone 10 - Preserve data in the browser
+# Portfolio: preserve data in the browser
 
 ## Learning objectives
 
