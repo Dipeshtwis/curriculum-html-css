@@ -43,7 +43,7 @@ You will be building your website portfolio during the first module of the progr
 - Project 4: Desktop version
 - Project 5: Project deploy
 - Project 6: Evaluate accessibility
-- Project 7: Add scroll events
+- Project 7: Mobile menu
 - Project 8: Details modal
 - Project 9: Process user input
 - Project 10: Preserve data in the browser
