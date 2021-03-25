@@ -1,4 +1,4 @@
-# Milestone 8 - Details popup window
+# Project 8 - Details popup window
 
 ## Learning objectives
 
