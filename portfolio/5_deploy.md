@@ -1,4 +1,4 @@
-# Project 5 - Application deploy
+# Portfolio: application deploy
 
 ## Learning objectives
 - Use GitHub Pages to deploy web pages.
