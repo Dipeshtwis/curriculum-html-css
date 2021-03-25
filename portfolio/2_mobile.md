@@ -1,4 +1,4 @@
-# Project 2 - Mobile version
+# Portfolio: mobile version
 
 ## Learning objectives
 - Understand how to parse a Figma design to create a UI.
