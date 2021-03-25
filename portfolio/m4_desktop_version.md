@@ -4,7 +4,7 @@
 - Ability to create UIs adaptable to different screen sizes using media queries.
 - Understand how to parse a Figma design to create a UI.
 
-### Estimated time: 4h + 4.5h
+### Estimated time: 8.5h
 
 ## Description
 
