@@ -1,4 +1,4 @@
-# Milestone 9 - Validate contact form
+# Project 9 - Validate contact form
 
 ## Learning objectives
 
