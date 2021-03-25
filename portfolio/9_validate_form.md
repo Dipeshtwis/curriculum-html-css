@@ -1,4 +1,4 @@
-# Project 9 - Validate contact form
+# Portfolio: validate contact form
 
 ## Learning objectives
 
