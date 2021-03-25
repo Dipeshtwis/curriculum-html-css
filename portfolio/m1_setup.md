@@ -1,4 +1,4 @@
-# Milestone 1 - Setup and mobile version skeleton
+# Project 1 - Setup and mobile version skeleton
 
 ## Learning objectives
 - Understand how to parse a Figma design to create a UI.
