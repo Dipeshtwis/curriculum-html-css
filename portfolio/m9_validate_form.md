@@ -9,7 +9,7 @@
 
 ## Description
 
-For this milestone of your portfolio website, you will implement a client-side validation of the data of the contact form before submission.
+For this milestone of your portfolio website, you will implement a client-side validation of the data in the contact form before submission.
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
@@ -26,12 +26,13 @@ For this milestone of your portfolio website, you will implement a client-side v
 
 ### Project requirements
 
-- You need to implement a simple validation
-  - The content of the email field has to be in lower case
+- You need to implement a simple validation:
+  - The content of the email field has to be in lower case.
 - You should implement the following interactions:
-  - when the user submits the form, you check if the email is in lower case
-  - if the validation is OK, the form is sent
-  - if the validation is not OK, you show an error message to the user close to the submit button informing of the error and the form is not sent
+  - When the user submits the form, you check if the email is in lower case.
+  - If the validation is OK, the form is sent.
+  - If the validation is not OK, you show an error message to the user near the submit button informing them of the error and the form is not sent.
+  
   <p align="center">
     <img src="./images/m3_contact_form/contact_form.png" alt="Mobile popup" />
   </p>
@@ -40,8 +41,7 @@ We included a screenshot of Template 1 for reference, but you should follow the 
 
 - When you create the error message, you should stick to the design guidelines (e.g., font, colors, margins) of [the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
 
-- **You need to use pair-programming for this project (and we will check if it is reflected in commits). Therefore you need to implement the above features in all of the portfolios in your pair-programming group.**
-
+- **You need to use pair-programming for this project. We will check the commit history to make sure that both partners have contributed code on each project. Therefore you need to implement the above features in all of the portfolios in your pair-programming group.**
 
 ### Need a big picture?
 
@@ -50,7 +50,6 @@ Remind me about [the big picture of this project](./sneak_peek.md).
 ## Code review
 
 Follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
-
 
 Each of you needs to request a code review individually.
 
@@ -66,4 +65,4 @@ Now go to your Student Dashboard and submit your project.
 
 *If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments.*
 
-- When the form validation is not OK, you can provide to the user the version of their text in lower case so they can use it directly in the input field
+- When the form validation is not OK, you can provide the user with their text converted to lower case so they can use it directly in the input field.
