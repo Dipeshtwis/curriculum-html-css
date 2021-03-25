@@ -13,13 +13,13 @@ With Responsive Web Design, you can create one design and it will automatically 
 
 ### Why is it important?
 
-Nowadays, buisness owners want to reach out to users on different devices - phones, tablets, computers. You as a web developer should be ready to answer to that need.
-Building and maintaining a separate website for each screen size is not an efficient way of achieving that.
+Nowadays, buisness owners want to reach out to users on different devices - phones, tablets, computers. You as a web developer should be ready to answer to that need. Building and maintaining a separate website for each screen size is not the best solution in general.
 
 ### Understand the theory behind RWD
 
 - Read [Best Practices of Responsive Web Design](https://medium.com/level-up-web/best-practices-of-responsive-web-design-6da8578f65c4).
-- Read [https://alistapart.com/article/responsive-web-design/](https://alistapart.com/article/responsive-web-design/).
+- Read [Responsive Web Design](https://alistapart.com/article/responsive-web-design/).
+- Read [How To Write Mobile-first CSS](https://zellwk.com/blog/how-to-write-mobile-first-css/)
 
 ### Check the real-life example
 
