@@ -8,24 +8,24 @@
 
 ## Exercise
 
-In this exercise, you will experience the power of using a CSS framework like Bootstrap to create a new website quickly from scratch. You are going to create a prototype of the portfolio website from scratch in a few hours: are you ready for the challenge?
+In this exercise, you will experience the power of using a CSS framework like Bootstrap to create a new website quickly from scratch. You are going to create a prototype of the portfolio website from scratch in a few hours - are you ready for the challenge?
 
 ### Instructions
 *IMPORTANT NOTE: Read **all** instructions before you start this exercise.*
 
-- First, you need to create a new repository for this exercise, and start working in a feature branch.
-- Do not re-use your portfolio code: as you will see, using Bootstrap you will barely need to write any CSS, just use Bootstrap classes.
+- First, you need to create a new repository for this exercise, and start working in a 'feature' branch.
+- Do not re-use your portfolio code! As you will see, using Bootstrap you will barely need to write any CSS, just use Bootstrap classes.
 - Install Bootstrap in your project, including both CSS and JS files.
 - Start prototyping the desktop version of the portfolio.
 - Explore all the Bootstrap components to see which ones you may need. For this exercise you don't need to personalize them to adjust to the design template. Here is a list of some components that could be useful:
-  - [navbar](https://getbootstrap.com/docs/5.0/components/navbar/) and [nav](https://getbootstrap.com/docs/5.0/components/navs-tabs/) for the header
-  - [scrollspy](https://getbootstrap.com/docs/5.0/components/scrollspy/) to update the active menu link when the user scrolls
-  - [cards](https://getbootstrap.com/docs/5.0/components/card/) for the list of portfolio projects
-  - [buttons](https://getbootstrap.com/docs/5.0/components/buttons/)
-  - [badges](https://getbootstrap.com/docs/5.0/components/badge/) for the list of technologies
-  - [modals](https://getbootstrap.com/docs/5.0/components/modal/) for the popup window with the project details
-  - [Bootstrap forms components](https://getbootstrap.com/docs/5.0/forms/overview/) to create the contact form
-  - [the grid system](https://getbootstrap.com/docs/5.0/layout/grid/) to place elements inline with others
+  - [navbar](https://getbootstrap.com/docs/5.0/components/navbar/) and [nav](https://getbootstrap.com/docs/5.0/components/navs-tabs/) for the header.
+  - [scrollspy](https://getbootstrap.com/docs/5.0/components/scrollspy/) to update the active menu link when the user scrolls.
+  - [cards](https://getbootstrap.com/docs/5.0/components/card/) for the list of portfolio projects.
+  - [buttons](https://getbootstrap.com/docs/5.0/components/buttons/).
+  - [badges](https://getbootstrap.com/docs/5.0/components/badge/) for the list of technologies.
+  - [modals](https://getbootstrap.com/docs/5.0/components/modal/) for the popup window with the project details.
+  - [Bootstrap forms components](https://getbootstrap.com/docs/5.0/forms/overview/) to create the contact form.
+  - [the grid system](https://getbootstrap.com/docs/5.0/layout/grid/) to place elements inline with others.
 - Once you have finished the desktop version, explore how to use [Bootstrap breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/) to adapt the website to the mobile design.
 - When everything is ready, open a new pull request with a detailed description of what you did.
 
