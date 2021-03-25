@@ -1,4 +1,4 @@
-# Project 8 - Details popup window
+# Portfolio: details popup window
 
 ## Learning objectives
 
