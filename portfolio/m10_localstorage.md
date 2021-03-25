@@ -8,7 +8,7 @@
 
 ## Description
 
-For this final milestone of your portfolio website, you will save the form data in the `local storage` of the browser. In this way, when the user reloads the page they will keep the data filled out in the form.
+For this final milestone of your portfolio website, you will save the form data in the `local storage` of the browser. That way when the user reloads the page the data they filled out in the form will be preserved.
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
@@ -26,13 +26,12 @@ For this final milestone of your portfolio website, you will save the form data 
 ### Project requirements
 
 - You should implement the following interactions:
-  - when the user changes the content of any input field, the data is saved to the local storage
-  - when the user loads the page, if there is any data in the local storage, the input fields are pre-filled with this data
+  - When the user changes the content of any input field, the data is saved to the local storage.
+  - When the user loads the page, if there is any data in the local storage the input fields are pre-filled with this data.
 - You should use the following data model:
-  - you must create and save in local storage **a single JavaScript object with all the data of the form** (not one local storage entry per input field)
+  - You must create **a single JavaScript object with all the data from the entire form** and save it in local storage. Do not create one local storage entry per input field.
 
-- **You need to use pair-programming for this project (and we will check if it is reflected in commits). Therefore you need to select one of the portfolios in your pair-programming group in which you will implement the above features.**
-
+- **You need to use pair-programming for this project. We will check to make sure that both partners have contributed to the project by looking at the commit history of the project. Therefore you need to select one of the portfolios in your pair-programming group in which you will implement the above features.**
 
 ### Need a big picture?
 
@@ -54,5 +53,5 @@ Now go to your Student Dashboard and submit your project.
 
 *If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments.*
 
-- You can create a "Reset" button for the form, that resets the input fields and deletes the data in the local storage.
+- You can create a "Reset" button for the form that resets the input fields and deletes the data in the local storage.
 - Follow the design guidelines about buttons from [the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
