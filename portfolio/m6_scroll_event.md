@@ -27,19 +27,21 @@ For this milestone of your portfolio website, you will implement the mobile menu
 
 ### Project requirements
 
-- For this project, you should add the [JavaScript linter](https://github.com/microverseinc/linters-config/tree/master/javascript)
-- In mobile
-  - when the user click (or tap) the hamburger button, the mobile menu appears
-  - when the user click (or tap) the close (X) button, the mobile menu disappear
-  - when the user click (or tap) any option of the mobile menu, the mobile menu disappear
+- For this project, you should add the [JavaScript linter](https://github.com/microverseinc/linters-config/tree/master/javascript).
+- In mobile, implement the following features:
+  - When the user clicks (or taps) the hamburger button, the mobile menu appears.
+  - When the user clicks (or taps) the close (X) button, the mobile menu disappears.
+  - When the user clicks (or taps) any of the mobile menu options, the mobile menu disappears.
+  
   <p align="center">
     <img src="./images/m7_mobile_menu/menu-mobile.png" alt="Mobile menu" />
   </p>
+  
 We included a screenshot of Template 5 for reference, but you should follow the template that you chose.
 
 - You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
 
-- **You need to use pair-programming for this project (and we will check if it is reflected in commits). Therefore you need to implement the above features in all of the portfolios in your pair-programming group.**
+- **You need to use pair-programming for this project. We will check to see if both partners submitted code by looking at the commit history for each project. Therefore you need to implement the above features in all of the portfolios in your pair-programming group.**
 
 ### Need a big picture?
 
@@ -63,8 +65,10 @@ Now go to your Student Dashboard and submit your project.
 
 *If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments.*
 
-- In desktop, when the user scrolls you need to check if the user scrolled to a new section. If so, you should highlight the name of the section in the menu manipulating the DOM (using CSS classes).
+- In desktop, when the user scrolls you need to check if the user scrolled to a new section. If so, you should highlight the name of the section in the menu by manipulating the DOM using CSS classes.
+
   <p align="center">
     <img src="./images/m7_mobile_menu/menu-desktop.png" alt="Desktop menu" />
   </p>
+  
 We included a screenshot of Template 5 for reference, but you should follow the template that you chose.
