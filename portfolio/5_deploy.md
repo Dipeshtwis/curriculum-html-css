@@ -1,4 +1,4 @@
-# Milestone 5 - Project deploy
+# Project 5 - Application deploy
 
 ## Learning objectives
 - Use GitHub Pages to deploy web pages.
