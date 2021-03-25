@@ -41,7 +41,7 @@ You will be building your website portfolio during the first module of the progr
 - Project 2: Mobile version
 - Project 3: Contact form
 - Project 4: Desktop version
-- Project 5: Project deploy
+- Project 5: Application deploy
 - Project 6: Evaluate accessibility
 - Project 7: Mobile menu
 - Project 8: Details modal
