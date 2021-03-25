@@ -1,4 +1,4 @@
-# Project 7 - Mobile menu
+# Portfolio - mobile menu
 
 ## Learning objectives
 
