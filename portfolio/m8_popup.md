@@ -12,7 +12,7 @@
 
 ## Description
 
-For this milestone of your portfolio website, you will implement the popup window with the project details, both for desktop and mobile. In order to do that, you will need to store the information about your projects in a JavaScript object.
+For this milestone of your portfolio website, you will implement a popup window that includes the project details in both desktop and mobile. In order to do that, you will need to store the information about your projects in a JavaScript object.
 
 *IMPORTANT NOTE: Read **all** requirements before you start building your project.*
 
@@ -30,9 +30,9 @@ For this milestone of your portfolio website, you will implement the popup windo
 ### Project requirements
 
 - You should implement the following interactions:
-  - when the user clicks (or taps) the button to check project details, the popup with details about the project appears
-  - when the user clicks (or taps) the close (X) button, the popup disappears
-- You should implement popups for both screen sizes
+  - When the user clicks (or taps) the button to check project details, the popup with details about the project appears.
+  - When the user clicks (or taps) the close (X) button, the popup disappears.
+- You should implement popups for both mobile and desktop screen sizes:
   - Mobile popup
     <p align="center">
       <img src="./images/m8_popup/modal_mobile.png" alt="Mobile popup" />
@@ -43,13 +43,12 @@ For this milestone of your portfolio website, you will implement the popup windo
     </p>
 We included a screenshot of Template 5 for reference, but you should follow the template that you chose.
 - You must stick to the design as much as possible (e.g., font, colors, images, tests, margins) using [the templates in Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
-- In order to associate each project with the popup window details, you must use **a JavaScript array to store all the information of the projects**.
-  - For each project you need to store in a JavaScript object (at minimum): name, description, featuring image, technologies, link to live version, link to source
-  - You need to update the main page so that the projects section is created dynamically with the information of that object (all the HTML of the section is created when the page loads)
-  - After that, you could implement the popup window
+- In order to associate each project with the popup window details, you must use **a JavaScript array to store all of the information for all projects**.
+  - For each project you need to store the following pieces of data in a JavaScript object, at a minimum: name, description, featured image, technologies, link to live version, link to source.
+  - You need to update the main page so that the projects section is created dynamically using the information stored in that JavaScript object. Remember, all of the HTML in that section is created when the page loads.
+  - After that, you could implement the popup window.
 
-- **You need to use pair-programming for this project (and we will check if it is reflected in commits). Therefore you need to implement the above features in all of the portfolios in your pair-programming group.**
-
+- **You need to use pair-programming for this project. We will check to make sure that both partners have contributed to the project by looking at the commit history for each project. Therefore you need to implement the above features in all of the portfolios in your pair-programming group.**
 
 ### Need a big picture?
 
@@ -75,7 +74,7 @@ Now go to your Student Dashboard and submit your project.
 
 - On desktop, when the user clicks on the "Next project" / "Previous project" buttons, they will navigate to the the next/previous project details in the popup.
 - If the project is the first one, the "Previous project" button is disabled
-- If the project in the last one, the "Next project" button is disabled
+- If the project is the last one, the "Next project" button is disabled
   <p align="center">
     <img src="./images/m8_popup/modal_desktop.png" alt="Desktop popup" />
   </p>
