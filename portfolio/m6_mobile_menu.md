@@ -1,4 +1,4 @@
-# Milestone 7 - Mobile menu
+# Project 7 - Mobile menu
 
 ## Learning objectives
 
