@@ -1,4 +1,4 @@
-# JavaScript objects
+# Introduction to JavaScript objects
 
 ## Learning objectives
 
