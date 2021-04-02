@@ -14,7 +14,7 @@ In this application (divided into multiple projects) you will be building a webs
 
 ### What makes a good portfolio?
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3-N6O7DVrbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Good portfolio](https://img.youtube.com/vi/3-N6O7DVrbc/0.jpg)](https://www.youtube.com/watch?v=3-N6O7DVrbc)
 
 In essence, if you look at any of the example portfolios we list below, you’ll see that they each contain four shared traits:
 - They are all **simple**: there’s no extraneous information, only basic background information, contact information, and a project showcase. 
