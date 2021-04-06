@@ -6,6 +6,7 @@
     - Do not add blank lines, spaces, or indentations without a reason.
     - For readability, add blank lines to separate large or logical code blocks.
     - For readability, add two spaces of indentation. Do not use the tab key.
+      - on some code editors, you can set the tab button to do an `X` amount of spaces.
 4. Close all HTML elements.
      - `<div>` always needs `</div>`
 5. Use lowercase for elements and attribute names.
