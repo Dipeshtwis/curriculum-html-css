@@ -9,8 +9,7 @@
 
 *Your portfolio* is one of the most powerful tools in your software developer toolbox; it’s the easiest way of showing what you’re truly capable of as a developer, and is a quick and simple way for recruiters and hiring managers to get an idea of what you can bring to their teams.
 
-In this application (divided into multiple projects) you will be building a website for your portfolio. A portfolio website is a key job searching tool for a web developer, and we want you to start working on it from the beginning of the Microverse program. In this project, you will **precisely replicate one of the portfolio templates** we are providing for you. However, during your Microverse journey you will include your own projects in the portfolio in order to use it for job searching.
-
+As you work your way through Microverse curriculum materials you will complete several small projects that will combine to create a website for your portfolio. A portfolio website is a key job searching tool for a web developer, and we want you to start working on it from the beginning of the Microverse program. In this project, you will **precisely replicate one of the portfolio templates** we are providing for you. However, later on during your Microverse journey you will include your own projects in the portfolio in order to use it for job searching.
 
 ### What makes a good portfolio?
 
@@ -26,10 +25,9 @@ In essence, if you look at any of the example portfolios we list below, you’ll
 
 We have provided some solid portfolio templates you can choose from. Choose the one you like the most. The templates are hosted on Figma - a collaborative UI design tool built in the browser. Please watch [this video](https://www.loom.com/embed/167236d17f104fc18298c5c9888354c9) to learn how to navigate the templates on Figma.
 
-
 If you still have questions about how to use Figma you can visit and interact with [the Figma community](https://forum.figma.com/).
 
-Here you will find [the Microverse Student Portfolio Templates](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
+Here you will find [the Microverse student portfolio templates](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1).
 
 **You should select one template for your personal portfolio in order to proceed with the next steps.**
 
