@@ -6,7 +6,7 @@
 - Use industry-standard tools (CSS Grid) to place elements in the page.
 - Build a personal portfolio site.
 
-### Estimated time: 4h
+### Estimated time: 3h
 
 ## Description
 For the second milestone in building your portfolio website, you will create the mobile website section where you will list your portfolio projects.
