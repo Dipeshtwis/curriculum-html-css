@@ -7,8 +7,8 @@
 - Use CSS selectors correctly.
 - Use CSS box model.
 - Use industry-standard tools (Flexbox) to place elements in the page.
-- Able to create UIs adaptable to different screen sizes using media queries.
-- Use GitHub pages to deploy web pages.
+- Demonstrate ability to create UIs adaptable to different screen sizes using media queries.
+- Use GitHub Pages to deploy web pages.
 - Apply JavaScript best practices and language style guides in code.
 - Use JavaScript to manipulate DOM elements.
 - Use JavaScript events.
@@ -19,7 +19,7 @@
 
 ## Description
 
-The project you are going to build is based on an *online website for a conference*. We provide some design guidelines for you to create the website, but **you must personalize the content**, i.e., instead of a conference you can build a website for a concert or for a web development course. It's very important the you personalize your project, so that you have something unique in your portfolio to share with potential employers during job searching.
+The project you are going to build is based on an *online website for a conference*. We provide some design guidelines for you to create the website, but **you must personalize the content**, i.e., instead of a conference you can build a website for a concert or for a web development course. It's very important the you personalize your project so that you have something unique in your portfolio to share with potential employers during job searching.
 
 <p align="center">
   <img src="./images/conference_page.png" alt="Form" />
@@ -40,28 +40,28 @@ The project you are going to build is based on an *online website for a conferen
 
 ### Project requirements
 
-- You should personalize the content of you page: choose a topic and build the web around it
+- You should personalize the content of your page. Choose a topic first and then design your webpage, keeping your topic in mind while you design it so that your page design works well for the topic you choose.
 - You should build only these 2 pages:
-  - the *home page*
-  - the *about page*
+  - The *home page*.
+  - The *about page*.
 - Each of these pages should have versions for 2 different screen sizes: 
-  - mobile: up to 768px
-  - desktop: from 768px
-- You should follow the [design guidelines](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), including
-  - colors
-  - typographies: font face, size and weight
-  - layout: composition and space between elements
+  - Mobile: up to 768px wide.
+  - Desktop: 768px or wider.
+- You should follow these [design guidelines](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015), including:
+  - Colors.
+  - Typography: font face, size and weight.
+  - Layout: composition and space between elements.
 - Interactions
-  - links
-    - the *home page* have a link in the menu to the *about page*
-    - the logo in the header links to the *home page*
-  - mobile menu
-    - when the user clicks (or taps) the hamburger button on the header, the mobile menu appears over the page
-    - there are no guidelines for the mobile menu in the docs, but you should implement it so it is consistent with the design (colors, typography, spacings, etc.)
-    - the mobile menu has a close (X) button that closes the menu
+  - Links
+    - The *home page* should have a link in the menu to the *about page*.
+    - The logo in the header links to the *home page*.
+  - Mobile menu
+    - When the user clicks (or taps) the hamburger button on the header, the mobile menu appears over the page.
+    - There are no guidelines for the mobile menu in the docs, but you should implement it so it is consistent with the design (colors, typography, spacings, etc.).
+    - The mobile menu should have a close (X) button that closes the menu.
 - Dynamic page
-  - the section "Featured speakers" should be created dynamically in JavaScript
-  - you should use a JavaScript variable with the data of the speakers and use it when the page loads to create the HTML of the section dynamically
+  - The section "Featured speakers" should be created dynamically in JavaScript.
+  - You should use a JavaScript variable with the data about the speakers and use it when the page loads to create the HTML for this section dynamically.
 
 Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
 
@@ -71,11 +71,11 @@ The [Creative Commons license of the design](https://creativecommons.org/license
 
 Once you have finished the development of the project, you should record a video presenting the features of the project you built. It is a video with a **maximum length of 5 minutes**. The content of the video should include:
 
-- a description of the project
-- a demo of the project features (different pages and different screen sizes)
-- you should also highlight some interesting piece of code or something you built that you are very proud of
+- A description of the project.
+- A demo of the project features (different pages and different screen sizes).
+- You should also highlight some interesting piece of code or something you built that you are very proud of.
 
-For recording the video you can use tools like [Loom](https://www.loom.com/), that let you share a private link to the recording, and configure a shot that shows your computer screen and your face at the same time in a small picture.
+For recording the video you can use tools like [Loom](https://www.loom.com/) that let you share a private link to the recording, and configure a shot that shows your computer screen and your face at the same time in a small picture.
 
 ## Challenge breakdown
 
@@ -94,31 +94,31 @@ In order to tackle this challenge, you need a plan! We created high-level milest
 
 **Milestone 2 - mobile first (5h)**
 
-- Create the 2 pages for mobile
-- Deploy the project
+- Create the 2 pages for mobile.
+- Deploy the project.
 
 ### Day 2
 
 **Milestone 3 - desktop version (5h)**
 
-- Adapt the 2 pages to desktop
+- Adapt the 2 pages to desktop.
 
 **Milestone 4 - interactions (1.5h)**
 
-- Implement the user interactions: link, mobile menu
-- Deploy the project
+- Implement the user interactions: link, mobile menu.
+- Deploy the project.
 
 ### Day 3
 
 **Milestone 5 - dynamic page (5h)**
 
-- Implement the section "Featured speakers" with dynamic HTML
-- Deploy the project, and test for final details
+- Implement the section "Featured speakers" with dynamic HTML.
+- Deploy the project and check to make sure everything works as planned.
 
 **Milestone 6 - documentation (1.5h)**
 
-- Record a video for your project
-- Create a good README and PR description
+- Record a video describing your project.
+- Create a good README and pull request description.
 
 ### Need a big picture?
 
@@ -126,7 +126,7 @@ Remind me about [what it is a capstone project](TBD).
 
 ## Code review
 
-You will get a code review when you build the complete project, not after each milestone. You you have it ready, follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
+You will get a code review when you build the complete project, not after each milestone. When you have it ready, follow [these steps](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/code-review/articles/how_to_ask_for_a_code_review.md) to request a code review of your project.
 
 ## Submit your project
 
@@ -141,5 +141,5 @@ Now go to your Student Dashboard and submit your project.
 
 *If you decide to implement these requirements you should do it in a separate pull request. As always, remember to clearly document your decision in GitHub comments.*
 
-- You could implement some UX improvements: the "More" button in the home page, include transitions and/or animations, etc.
-- You can implement additional pages, like the *tickets page* and the *schedule page*. Make sure that you have a decent mobile design for them.
+- You could implement some UX improvements: add the "More" button on the home page, include transitions and/or animations, etc.
+- You could implement additional pages, like the *tickets page* and the *schedule page*. Make sure that you have a decent mobile design for them.
