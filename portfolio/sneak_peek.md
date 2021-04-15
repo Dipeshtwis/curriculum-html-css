@@ -36,11 +36,11 @@ Here you will find [the Microverse student portfolio templates](https://www.figm
 You will be building your website portfolio during the first module of the program. Here is the list of projects that will guide you. You will find details about each of the projects requirements in the upcoming program activities. In some of the projects you will be working individually, but in others you will be working collaboratively with your coding partner.
 - Project 1: Setup and mobile version skeleton
 - Project 2: Mobile version
-- Project 3: Contact form
+- Project 3: Contact form (pair programming)
 - Project 4: Desktop version
 - Project 5: Application deploy
-- Project 6: Evaluate accessibility
-- Project 7: Mobile menu
-- Project 8: Details modal
-- Project 9: Process user input
-- Project 10: Preserve data in the browser
+- Project 6: Evaluate accessibility (pair programming)
+- Project 7: Mobile menu (pair programming)
+- Project 8: Details modal (pair programming)
+- Project 9: Validate contact form (pair programming)
+- Project 10: Preserve data in the browser (pair programming)
