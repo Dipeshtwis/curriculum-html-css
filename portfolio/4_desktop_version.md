@@ -27,7 +27,7 @@ For the fourth project in your portfolio website, you will:
 ### Project requirements
 
 - You need to make sure that your dekstop version looks like the one in the Figma design template that you chose. We include a screenshot of Template 1 below for reference, but you should use the template that you chose.
-- **IMPORTANT NOTE** some Figma design templates include two input fields (for first name and last name) in the desktop version and one input field (for full name) in the mobile version. **Please ignore this part of the design template and use only one input for the full name for all versions.**
+- **IMPORTANT NOTE** some Figma design templates include two input fields (for first name and last name) in the desktop version and one input field (for full name) in the mobile version (look for those cases in *Contact me* or *Get in touch* sections). **Please ignore this part of the design template and use only one input for the full name for all versions.**
     <p align="center">
      <img src="./images/m4_desktop/desktop.png" alt="Desktop" />
     </p>
