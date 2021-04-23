@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-- Use forms and validations.
+- Create forms with HTML5 validations.
 - Understand the importance of UX.
 
 ### Estimated time: 2h

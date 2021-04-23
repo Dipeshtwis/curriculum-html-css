@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-- Use industry-standard tools (CSS Grid) to place elements in the page.
+- Use CSS Grid to place elements in the page.
 
 ### Estimated time: 1.5h
 

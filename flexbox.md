@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-- Use industry-standard tools (Flexbox) to place elements in the page.
+- Use Flexbox to place elements in the page.
 
 ### Estimated time: 2.5h
 

@@ -2,7 +2,7 @@
 
 ## Learning objectives
 
-- Use forms and validations.
+- Create forms with HTML5 validations.
 - Understand the importance of UX.
 - Understand how to parse a Figma design to create a UI.
 

@@ -2,8 +2,8 @@
 
 ## Learning objectives
 - Understand how to parse a Figma design to create a UI.
-- Use industry-standard tools (Flexbox) to place elements in the page.
-- Use industry-standard tools (CSS Grid) to place elements in the page.
+- Use Flexbox to place elements in the page.
+- Use CSS Grid to place elements in the page.
 - Build a personal portfolio site.
 
 ### Estimated time: 3h
