@@ -9,11 +9,11 @@
 
 ## Description
 
-As you know, we use HTML forms to collect user input. In order to make sure that the data is provided in a standard format, we can execute data validations client-side on the browser (as opposed to server-side on the server). There are different types of client-side validation: built in input elements, regular expressions and using JavaScript.
+As you know, we use HTML forms to collect user input. In order to make sure that the data is provided in a standard format, we can execute data validations client-side on the browser (as opposed to server-side on the server, that you will discover later in the program). There are different types of client-side validation: built in input elements (that came with HTML 5), regular expressions and using JavaScript.
 
 ### Why is client side validation important?
 
-In web application, as in any other software applications, the data and its consistency are key. In order to help that we are storing consistent user data in our server we should use data validations in the browser.
+In web application, as in any other software applications, the data and its consistency are key. In order to ensure that we are storing consistent user data in our server we should use data validations in the browser.
 
 ### Learn more
 - Read the [Client-side form validation tutorial](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation) by MDN
