@@ -13,10 +13,6 @@
 - Use Google to find solutions to technical issues that arise during learning.
 - Use Stack Overflow to find solutions to technical problems that arise during learning.
 - Describe how to report any harassment you experience.
-- Understand how to communicate across cultures, using empathy and curiosity and actively questioning own biases.
-- Understand that getting good at giving and receiving constructive feedback takes practice with each new team you work with.
-- Recognize the importance of investing in good working relationships with teammates.
-- Understand how to make working agreements with new teammates.
 
 ### Estimated time: 0.5h
 
