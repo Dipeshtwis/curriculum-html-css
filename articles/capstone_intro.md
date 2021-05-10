@@ -10,7 +10,7 @@
 Let's learn about capstone projects at Microverse together!
 
 ### Why are capstone projects important?
-Capstone projects are solo projects at the end of the each of the Microverse Core Curriculum modules. Building this project is very important for you because:
+Capstone projects are solo or group projects at the end of the each of the Microverse Core Curriculum modules. Building this project is very important for you because:
 
 - It is similar to real-world projects you may be asked to make, and it is built with business specifications that will look really nice in your portfolio.
 - You will get feedback about the achievement of technical and soft skills gained during this module of the program.
