@@ -1,4 +1,4 @@
-# Checkpoint quiz - Accessibility, CSS frameworks, & algorithms
+# Checkpoint quiz - Accessibility, CSS frameworks, and algorithms
 
 ## Learning objectives
 - Describe core principles of building accessible websites and explain why accessibility is important.
